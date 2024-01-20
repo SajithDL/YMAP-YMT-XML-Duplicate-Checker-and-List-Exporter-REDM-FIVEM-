@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPropSetDef>
+ <name>pg_herbalistcamp02x</name>
+ <KuRNiVA_0xD222611A itemType="CEntityDef">
+  <Item>
+   <archetypeName>p_tent_leento03x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4588E561A0088659" />
+   <position x="1.901475" y="-3.826017" z="0" />
+   <rotation x="0" y="0" z="0.9762959" w="0.216439977" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_bedrollopen01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4E2C4688B5AEA1E1" />
+   <position x="1.976492" y="-4.033243" z="0" />
+   <rotation x="0" y="0" z="0.8660254" w="-0.500000238" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_herbsdry01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4A69D00EF3535019" />
+   <position x="-3.360565" y="0.214077" z="0.073108" />
+   <rotation x="-0.06889902" y="0.116409048" z="0.6864403" w="0.71449405" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_herbsdry01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4EA763AE62E8F309" />
+   <position x="-3.325272" y="0.201293" z="0.073108" />
+   <rotation x="-0.187354088" y="0.206475109" z="0.7796404" w="0.560738266" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_herbsdry01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4F964311531E18C8" />
+   <position x="-2.59088" y="-0.663633" z="0.837476" />
+   <rotation x="-0.6729598" y="0.0334309861" z="0.6782238" w="0.293291867" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_herbsdry01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x428722E99018364B" />
+   <position x="-2.872818" y="-0.390024" z="0.839348" />
+   <rotation x="-0.6729598" y="0.0334309861" z="0.6782238" w="0.293291867" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_herbsdry01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4EEC0ADBDAEFC76A" />
+   <position x="-2.750483" y="-0.568735" z="0.838084" />
+   <rotation x="-0.6729598" y="0.0334309861" z="0.6782238" w="0.293291867" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_herbsdry01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x46D947C48C35F670" />
+   <position x="-2.578832" y="-1.103018" z="0.822319" />
+   <rotation x="-0.494028866" y="0.4581799" z="0.331024945" w="0.660627842" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_crate14x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4E86EC8BB07D0173" />
+   <position x="-3.375272" y="0.256784" z="0.049549" />
+   <rotation x="0" y="0" z="0.996194661" w="0.08715597" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_herbsdry01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4BD5214A59F182E4" />
+   <position x="-3.268768" y="0.286197" z="0.073108" />
+   <rotation x="-0.0158849955" y="0.115190975" z="0.601090968" w="0.7906759" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_stump_01x</archetypeName>
+   <flags value="1573120" />
+   <id value="0x4C6956BD4057F93D" />
+   <position x="4.152198" y="-2.113261" z="0" />
+   <rotation x="0" y="0" z="0.258818984" w="0.9659258" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_woodpile01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x42FDB2A9643FFD4B" />
+   <position x="3.42289" y="-1.719865" z="0" />
+   <rotation x="0" y="0" z="0.5373001" w="0.8433911" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_campfirecombined01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x45484E524B23E910" />
+   <position x="0" y="0.036865" z="0" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="350" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions>
+    <Item type="CExtensionDefParticleEffectOverride">
+     <name />
+     <offsetPosition x="0" y="0" z="0" />
+     <instances />
+     <rkLrspA_0x28CF7431 itemType="CExtensionDefParticleEffect">
+      <Item>
+       <name>p_campfirecombined01x</name>
+       <offsetPosition x="-0.064005" y="-0.0268049985" z="0" />
+       <offsetRotation x="0" y="0" z="0" w="1" />
+       <fxName>wVTCaRA_0x07BED5BC</fxName>
+       <fxType value="0" />
+       <boneTag value="0" />
+       <scale value="1" />
+       <probability value="100" />
+       <flags value="0" />
+       <color value="4294967295" />
+       <guid>tZqToLA_0xC97575C8</guid>
+       <emitterMesh />
+      </Item>
+     </rkLrspA_0x28CF7431>
+    </Item>
+   </extensions>
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_crate23x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4DD403F441E8D3E1" />
+   <position x="0.376781" y="3.233183" z="0" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_debrispile02x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x434489D70C46818A" />
+   <position x="-1.844702" y="2.977398" z="0" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_cratetable01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x43D54BF5D495D202" />
+   <position x="-0.880291" y="2.757207" z="0" />
+   <rotation x="0" y="0" z="0.9848078" w="0.17364794" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_mortarpestle02x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4D4BCCA3B27B55A4" />
+   <position x="-1.118615" y="2.588388" z="0.795748" />
+   <rotation x="0" y="0" z="0.5799829" w="0.8146287" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_bottlecognac01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x434E70D88C9D2C33" />
+   <position x="-1.38198" y="2.653062" z="0.783871" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>s_inv_medicine_fty</archetypeName>
+   <flags value="1572864" />
+   <id value="0x436D3A2EBA8A8E84" />
+   <position x="-0.445" y="3.01409" z="0.792392" />
+   <rotation x="0.03006101" y="0.00289500086" z="0.09580203" w="0.9949422" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_journal_open01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4325F086327C44B1" />
+   <position x="-0.567793" y="2.814452" z="0.811043" />
+   <rotation x="-0.0168300029" y="-0.003280001" z="0.06111702" w="0.997983336" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>s_inv_burdock01dx</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4E2746080B01EE1B" />
+   <position x="-1.066739" y="2.461205" z="0.805099" />
+   <rotation x="0.719207346" y="0.412421167" z="-0.296964139" w="-0.473774225" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_knife02x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x43783A3C6F2FD724" />
+   <position x="-0.524694" y="2.604297" z="0.78858" />
+   <rotation x="0.00603999943" y="0.005438" z="-0.669109" w="0.7431199" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>s_inv_milkweed01bx</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4DD34185F6DBE574" />
+   <position x="-0.241072" y="2.799776" z="0.794847" />
+   <rotation x="0.005978002" y="-0.0130400043" z="0.00140000065" w="0.9998961" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>s_inv_medicine01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4436B1501CC2E4FD" />
+   <position x="-0.499721" y="3.008363" z="0.791202" />
+   <rotation x="0.0301439874" y="-0.001843999" z="-0.06102097" w="0.9976795" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_tobaccoleavesdried01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4D03B03BC3298876" />
+   <position x="0.450012" y="3.088074" z="0.147949" />
+   <rotation x="0.8857606" y="0.292020857" z="0.111133948" w="-0.343221843" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_tobaccoleavesdried01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4F1A0650101E386F" />
+   <position x="0.509941" y="3.088074" z="0.147949" />
+   <rotation x="-0.09667804" y="0.927715361" z="-0.3598661" w="0.02222601" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_tobaccoleavesdried01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x4E1B41875396AA4C" />
+   <position x="0.43985" y="2.992371" z="0.207031" />
+   <rotation x="0.8647673" y="-0.352771133" z="0.356196076" w="-0.0292300135" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_tobaccoleavesdried01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x44F7CA670EDDCE66" />
+   <position x="0.56311" y="2.992371" z="0.207031" />
+   <rotation x="0.906501532" y="-0.336441219" z="0.228011146" w="-0.114339076" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+  <Item>
+   <archetypeName>p_cratetable01x</archetypeName>
+   <flags value="1572864" />
+   <id value="0x42633BF1D0BECC3F" />
+   <position x="-2.964609" y="-0.96933" z="0" />
+   <rotation x="0" y="0" z="0.8191518" w="-0.573576868" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+  </Item>
+ </KuRNiVA_0xD222611A>
+</CPropSetDef>

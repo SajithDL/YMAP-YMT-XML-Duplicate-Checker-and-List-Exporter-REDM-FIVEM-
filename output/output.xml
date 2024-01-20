@@ -1,0 +1,27 @@
+<!--pg_herbalistcamp02x.ymt-->
+  Item Count: 31
+  Duplicate Count: 11
+  Duplicates: p_herbsdry01x (6),  (1), p_cratetable01x (1), p_tobaccoleavesdried01x (3)
+
+
+     <!--All Unique Item Names:--> (20)
+
+p_knife02x
+p_woodpile01x
+s_inv_medicine_fty
+s_inv_milkweed01bx
+p_cratetable01x
+p_bottlecognac01x
+p_mortarpestle02x
+p_tobaccoleavesdried01x
+p_crate14x
+s_inv_burdock01dx
+p_debrispile02x
+p_stump_01x
+p_tent_leento03x
+p_bedrollopen01x
+p_journal_open01x
+p_herbsdry01x
+p_crate23x
+p_campfirecombined01x
+s_inv_medicine01x
